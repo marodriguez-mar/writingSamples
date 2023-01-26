@@ -8,4 +8,4 @@ Here you can find some writing samples that highlight my policy interests, analy
 * This policy memo was my final project from my Public Policy writing course.
 
 ### digitalHealth_PolicyPresentation
-* This policy presentation was my final project from my stratefic presentations course.
+* This policy presentation was my final project from my strategic presentations course.
