@@ -1,4 +1,4 @@
-# writingSamples
+# Writing Samples
 Here you can find some writing samples that highlight my policy interests, analysis skills, and writing abilities. 
 * I am particularly interested in public interest technology and how public sector entities can leverage data for the public benefit.
 
